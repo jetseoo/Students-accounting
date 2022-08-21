@@ -1,5 +1,13 @@
-# Students table App
-\- is a SPA with a table displaying info about students given as an incoming array.
-You can add new student to table, sort them by clicking on the table headings and apply multiple filters
+# Students accounting app
 
-Fully built on JavaScript
+This app provides an opprtunity to store and manage content on a webpage.
+
+## Technologies
+- Javascript
+- Bootstrap 5.1.3
+
+## Usage
+This app allows you to:
+- add new content to table using a form
+- sort table by clicking on the column headings
+- apply multiple filters at the same time
