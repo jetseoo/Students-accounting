@@ -1,6 +1,6 @@
 # Students accounting app
 
-This app provides an opprtunity to store and manage content on a webpage.
+This app provides an opportunity to store and manage content on a webpage.
 
 ## Technologies
 - Javascript
