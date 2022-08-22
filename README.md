@@ -11,3 +11,6 @@ This app allows you to:
 - add new content to table using a form
 - sort table by clicking on the column headings
 - apply multiple filters at the same time
+
+## Live demo
+https://jetseoo.github.io/Students-accounting/
